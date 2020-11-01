@@ -48,7 +48,7 @@ class App extends React.Component<AppProps, AppState> {
         <GlobalStyle />
         <AppContainer>
           <Logo src={LogoUrl} />
-          <Title>Welcome to the birdie test</Title>
+          <Title>Welcome to the birdie test 2</Title>
           <SubTitle>Best of luck!</SubTitle>
         </AppContainer>
       </>
